@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "63e25ca453a7f1489a8a919f"
+  },
+  "barang": "handphone",
+  "jumlah": "15 buah",
+  "merek": "samsung",
+  "harga": "1,5juta"
+},{
+  "_id": {
+    "$oid": "63e25d6c53a7f1489a8a91a0"
+  },
+  "barang": "laptop",
+  "jumlah": "8 buah",
+  "merek": "lenovo",
+  "harga": "12,5juta"
+},{
+  "_id": {
+    "$oid": "63e26642fd918148c2b7583a"
+  },
+  "barang": "monitor",
+  "jumlah": "7 buah",
+  "merek": "HP",
+  "harga": "1,2 juta"
+},{
+  "_id": {
+    "$oid": "63e444f2fd918148c2b7583b"
+  },
+  "barang": "keyboard",
+  "jumlah": "8 buah",
+  "merek": "HP",
+  "harga": "500.000"
+},{
+  "_id": {
+    "$oid": "63e44ddcfd918148c2b7583c"
+  },
+  "barang": "computer",
+  "jumlah": "6 set",
+  "merek": "intel",
+  "harga": "18 juta"
+},{
+  "_id": {
+    "$oid": "63e4f461fd918148c2b7583d"
+  },
+  "barang": "sound",
+  "jumlah": "4 set",
+  "merek": "elita",
+  "harga": "12 juta"
+},{
+  "_id": {
+    "$oid": "63e4f57bfd918148c2b7583e"
+  },
+  "barang": "ampli",
+  "jumlah": "2 set",
+  "merek": "eazifast",
+  "harga": "6 juta"
+},{
+  "_id": {
+    "$oid": "63e4f5bafd918148c2b7583f"
+  },
+  "barang": "TV",
+  "jumlah": "4 buah",
+  "merek": "samsung",
+  "harga": "4 juta"
+},{
+  "_id": {
+    "$oid": "63e4f5dbfd918148c2b75840"
+  },
+  "barang": "kulkas",
+  "jumlah": "8 buah",
+  "merek": "samsung",
+  "harga": "8 juta"
+},{
+  "_id": {
+    "$oid": "63e4f610fd918148c2b75841"
+  },
+  "barang": "mesih cuci",
+  "jumlah": "7 buah",
+  "merek": "toshiba",
+  "harga": "3 juta"
+}]
